@@ -21,14 +21,14 @@ The way I value the password's strength is by:
 
 ## Program Overview:
 
--I have defined four constant variables for the different password strengths at the top.
+- I have defined four constant variables for the different password strengths at the top.
 
--The main function consists of the implementation of the menu inside of a loop.
+- The main function consists of the implementation of the menu inside of a loop.
 
--The test preset password function consists of four unique passwords I have hard coded and those passwords get passed through the get strength function and then is finally printed out along with its strengths, so when the user chooses option 1 they see 4 passwords and their strengths as an example.
+- The test preset password function consists of four unique passwords I have hard coded and those passwords get passed through the get strength function and then is finally printed out along with its strengths, so when the user chooses option 1 they see 4 passwords and their strengths as an example.
 
--The get strength string function just returns a string form of the various password strengths I have defined at the top of the program as constant variables.
+- The get strength string function just returns a string form of the various password strengths I have defined at the top of the program as constant variables.
 
 -The test password strength function is the heart of the program which any password that gets passed through is verified by the length of the password, if it has upper case and/or lowercase, along with if it has numbers or special characters and then a strength is determined.
 
--The test custom password function tests the strength of the password the user inputted when choosing option 2 from the menu.
+- The test custom password function tests the strength of the password the user inputted when choosing option 2 from the menu.
