@@ -29,6 +29,6 @@ The way I value the password's strength is by:
 
 - The get strength string function just returns a string form of the various password strengths I have defined at the top of the program as constant variables.
 
--The test password strength function is the heart of the program which any password that gets passed through is verified by the length of the password, if it has upper case and/or lowercase, along with if it has numbers or special characters and then a strength is determined.
+- The test password strength function is the heart of the program which any password that gets passed through is verified by the length of the password, if it has upper case and/or lowercase, along with if it has numbers or special characters and then a strength is determined.
 
 - The test custom password function tests the strength of the password the user inputted when choosing option 2 from the menu.
