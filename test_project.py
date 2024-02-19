@@ -1,3 +1,5 @@
+# pip install pytest
+
 import pytest
 import project
 
