@@ -1,6 +1,6 @@
 # Password Strength Test
 
-**Video Demo:** [[LINK](https://youtu.be/hUthuBWwRyI)]([#](https://youtu.be/hUthuBWwRyI))
+**Video Demo:** [[LINK](https://youtu.be/hUthuBWwRyI)](https://youtu.be/hUthuBWwRyI))
 
 ## Description
 
